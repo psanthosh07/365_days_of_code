@@ -3,12 +3,17 @@
 using namespace std;
 
 int main()  {
-    int x, y;
-    cin>>x>>y;
-    if(x<=y){
-    printf("Robin");}
-    else{
-    printf("Rahul");}
+    int N;
+    cin>>N;
+    for (int i=1;i<N;i++){
+        if ( i % 2 != 0 )
+  		{
+  			cout << i ;
+            cout<<"\n";
+		}	
+  	}
+        
+
     // YOUR CODE GOES HERE
     
     return 0;
