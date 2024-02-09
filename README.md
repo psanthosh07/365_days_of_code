@@ -1,9 +1,9 @@
 # 🚀 365 Days of Code Challenge 2024 Repository
 Welcome to my repository for the 365 Days of Code Challenge 2024! 🎉
 
-##Overview
+## Overview
 This repository is a dedicated space where I'll be sharing my daily code submissions for the 365 Days of Code Challenge 2024. Each day, I'll tackle coding challenges and upload my solutions here.
-##Structure
+## Structure
 Day 1 : Input & Output Python<br>
 Day 2 : Variables and Types Python<br>
 Day 3 : Arithmetic operators on numbers Python<br>
