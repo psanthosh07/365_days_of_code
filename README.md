@@ -27,10 +27,23 @@ Day 20: Loops C++<br>
 Day 21: Switch C++<br>
 Day 22: Conditional or Ternary Expression C++<br>
 Day 23: Jump Statements C++<br>
-Day 24: 
-Day 25:
-Day 26:
-Day 27:
+Day 24: Functions C++ <br>
+Day 25: String C++ <br>
+Day 26: Passing Parameters C++ <br>
+Day 27: Set Operations Python <br>
+Day 28: List Comprehension Python <br>
+Day 29: Numpy Arrays Python <br>
+Day 30: Nested List Python <br>
+Day 31: Classes and Objects Python <br>
+Day 32: Arrays C++ <br>
+Day 33: String Streams <br>
+Day 34: Templates C++ <br>
+Day 35: Pointers C++ <br>
+Day 36: Pointer to Arrays C++ <br>
+Day 37: Structures C++ <br>
+Day 38: Objects and Classes C++ <br>
+Day 39: Inheritance C++ <br>
+
 
 
 
