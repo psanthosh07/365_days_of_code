@@ -60,7 +60,10 @@ Day 53: Hello World! C#<br>
 Day 54: Variables and Types in C#<br>
 Day 55: Type Conversion in C#<br>
 Day 56: Operators C#<br> 
-Day 57: Input & Output C#<br><br>
+Day 57: Input & Output C#<br>
+Day 58: If Else C# <br>
+Day 59: Loops C# <br>
+Day 60: Switches C# <br>
 
 
 
