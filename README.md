@@ -70,6 +70,9 @@ Day 63: Functions C# <br>
 Day 64: Passing Parameters C# <br>
 Day 65: String Builder C#<br>
 Day 66: Single Dimensional Arrays C#<br>
+Day 67: Firefighter's Sum SQL <br>
+Day 68: Information Selector SQL <br>
+
 
 
 
