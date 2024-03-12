@@ -74,6 +74,7 @@ Day 67: Firefighter's Sum SQL <br>
 Day 68: Information Selector SQL <br>
 Day 69: Town Queries SQL<br>
 Day 70: Country Filtration SQL<br>
+Day 71: Student Query SQL <br>
 
 
 
