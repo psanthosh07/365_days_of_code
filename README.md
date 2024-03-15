@@ -77,7 +77,7 @@ Day 70: Country Filtration SQL<br>
 Day 71: Student Query SQL <br>
 Day 72: Town Selection SQL <br>
 Day 73: Town Of Threes SQL <br>
-
+Day 74: Firefighter's Average SQL <br>
 
 
 
