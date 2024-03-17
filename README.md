@@ -78,6 +78,8 @@ Day 71: Student Query SQL <br>
 Day 72: Town Selection SQL <br>
 Day 73: Town Of Threes SQL <br>
 Day 74: Firefighter's Average SQL <br>
+Day 75: Largest Difference SQL <br>
+Day 76: Distance Maximizer SQL<br>
 
 
 
