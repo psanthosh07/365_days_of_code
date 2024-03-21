@@ -88,3 +88,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 76   | Distance Maximizer               | SQL      | [Day76.sql](Day76.sql)   |
 | 77   | Study Selection                  | SQL      | [Day77.sql](Day77.sql)   |
 | 78   | Study Deletion                   | SQL      | [Day78.sql](Day78.sql)   |
+| 79   | Study Update                     | SQL      | [Day79.sql](Day79.sql)   |
+| 80   | Job Offers 2.0                   | SQL      | [Day80.sql](Day80.sql)   |
