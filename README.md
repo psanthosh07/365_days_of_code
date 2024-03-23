@@ -91,3 +91,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 79   | Study Update                     | SQL      | [Day79.sql](Day79.sql)   |
 | 80   | Job Offers 2.0                   | SQL      | [Day80.sql](Day80.sql)   |
 | 81   | Role Player                      | SQL      | [Day81.sql](Day81.sql)   |
+| 82   | Vowel Country                    | SQL      | [Day82.sql](Day82.sql)   |
