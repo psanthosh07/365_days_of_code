@@ -93,3 +93,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 81   | Role Player                      | SQL      | [Day81.sql](Day81.sql)   |
 | 82   | Vowel Country                    | SQL      | [Day82.sql](Day82.sql)   |
 | 83   | Role Counter                     | SQL      | [Day83.sql](Day83.sql)   |
+| 84   | Birthdays                        | SQL      | [Day84.sql](Day84.sql)   |
