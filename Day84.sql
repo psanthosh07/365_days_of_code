@@ -1,0 +1,7 @@
+/* YOUR QUERY GOES HERE
+*/
+SELECT
+  GROUP_CONCAT(Name SEPARATOR ',') AS Names
+FROM Students
+GROUP BY DATE(Birthdate)
+ORDER BY Birthdate ASC;
