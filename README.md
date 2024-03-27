@@ -95,3 +95,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 83   | Role Counter                     | SQL      | [Day83.sql](Day83.sql)   |
 | 84   | Birthdays                        | SQL      | [Day84.sql](Day84.sql)   |
 | 85   | Class Average                    | SQL      | [Day85.sql](Day85.sql)   |
+| 86   | Big Salary                       | SQL      | [Day86.sql](Day86.sql)   |
