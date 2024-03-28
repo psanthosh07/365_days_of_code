@@ -96,3 +96,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 84   | Birthdays                        | SQL      | [Day84.sql](Day84.sql)   |
 | 85   | Class Average                    | SQL      | [Day85.sql](Day85.sql)   |
 | 86   | Big Salary                       | SQL      | [Day86.sql](Day86.sql)   |
+| 87   | Euclid's Distance                | SQL      | [Day87.sql](Day87.sql)   |
