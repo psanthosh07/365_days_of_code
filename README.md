@@ -98,4 +98,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 86   | Big Salary                       | SQL      | [Day86.sql](Day86.sql)   |
 | 87   | Euclid's Distance                | SQL      | [Day87.sql](Day87.sql)   |
 | 88   | Conditional Work                 | SQL      | [Day88.sql](Day88.sql)   |
-| 89   | Fizz Buzz                        | Python   | [Day89.sql](Day89.sql)   |
+| 89   | Fizz Buzz                        | Python   | [Day89.py](Day89.py)   |
