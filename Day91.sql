@@ -1,0 +1,7 @@
+/* YOUR QUERY GOES HERE
+*/
+SELECT SUM(e.Count) AS A
+FROM ENGINEER e
+JOIN DATA d ON e.ID = d.ID
+WHERE d.Type = 'FrontEnd';
+
