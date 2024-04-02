@@ -101,3 +101,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 89   | Fizz Buzz                        | Python   | [Day89.py](Day89.py)     |
 | 90   | 5'th Highest Marks               | SQL      | [Day90.sql](Day90.sql)   |
 | 91   | Engineers Joined                 | SQL      | [Day91.sql](Day91.sql)   |
+| 92   | Job Offers                       | SQL      | [Day92.sql](Day92.sql)   |
