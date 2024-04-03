@@ -1,0 +1,6 @@
+/* YOUR QUERY GOES HERE
+*/
+SELECT BooksId AS Id
+FROM BoughtBooks
+GROUP BY BooksId
+HAVING COUNT(*) >= 3;
