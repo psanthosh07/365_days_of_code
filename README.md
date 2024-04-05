@@ -104,3 +104,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 92   | Job Offers                       | SQL      | [Day92.sql](Day92.sql)   |
 | 93   | Famous Books                     | SQL      | [Day93.sql](Day93.sql)   |
 | 94   | Major Elements                   | Python   | [Day94.py](Day94.py)     |
+| 95   | Reverse the String               | Python   | [Day95.py](Day95.py)     |
