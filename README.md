@@ -105,3 +105,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 93   | Famous Books                     | SQL      | [Day93.sql](Day93.sql)   |
 | 94   | Major Elements                   | Python   | [Day94.py](Day94.py)     |
 | 95   | Reverse the String               | Python   | [Day95.py](Day95.py)     |
+| 96   | Smaller or equal elements        | Python   | [Day96.py](Day96.py)     |
