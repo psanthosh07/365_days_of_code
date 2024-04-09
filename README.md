@@ -108,3 +108,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 96   | Smaller or equal elements        | Python   | [Day96.py](Day96.py)     |
 | 97   |  Input and Output                | Javascript|[Day97.js](Day97.js)     |
 | 98   | Palindrome Rearrange             | Python    | [Day98.py](Day98.py)    |
+| 99   | Leap Year                        | Python    | [Day99.py](Day99.py)    |
