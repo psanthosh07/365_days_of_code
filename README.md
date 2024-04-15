@@ -113,3 +113,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 101  | Odd Even Rule                    | Python    | [Day101.py](Day101.py)  |
 | 102  | Greater of Lesser                | Python    | [Day102.py](Day102.py)  |
 | 103  | Sell Items                       | Python    | [Day103.py](Day103.py)  |
+| 104  | Which Seasons                    | Python    | [Day104.py](Day104.py)  |
+| 105  | Postive Negative                 | Python    | [Day105.py](Day105.py)  |
