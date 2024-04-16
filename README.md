@@ -115,3 +115,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 103  | Sell Items                       | Python    | [Day103.py](Day103.py)  |
 | 104  | Which Seasons                    | Python    | [Day104.py](Day104.py)  |
 | 105  | Postive Negative                 | Python    | [Day105.py](Day105.py)  |
+| 106  | Product of Digits                | Python    | [Day106.py](Day106.py)  |
