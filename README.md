@@ -117,3 +117,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 105  | Postive Negative                 | Python    | [Day105.py](Day105.py)  |
 | 106  | Product of Digits                | Python    | [Day106.py](Day106.py)  |
 | 107  | String Inversion                 | Python    | [Day107.py](Day107.py)  |
+| 108  | Pair of Socks                    | Python    | [Day108.py](Day108.py)  |
