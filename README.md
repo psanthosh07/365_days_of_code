@@ -118,3 +118,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 106  | Product of Digits                | Python    | [Day106.py](Day106.py)  |
 | 107  | String Inversion                 | Python    | [Day107.py](Day107.py)  |
 | 108  | Pair of Socks                    | Python    | [Day108.py](Day108.py)  |
+| 109  | Armstrong Number                 | Python    | [Day109.py](Day109.py)  |
