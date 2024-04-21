@@ -119,3 +119,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 107  | String Inversion                 | Python    | [Day107.py](Day107.py)  |
 | 108  | Pair of Socks                    | Python    | [Day108.py](Day108.py)  |
 | 109  | Armstrong Number                 | Python    | [Day109.py](Day109.py)  |
+| 110  | Frequency of Charecters          | Python    | [Day110.py](Day110.py)  |
+| 111  | 4 Numbers with highest XOR       | Python    | [Day111.py](Day111.py)  |
