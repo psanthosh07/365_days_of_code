@@ -121,3 +121,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 109  | Armstrong Number                 | Python    | [Day109.py](Day109.py)  |
 | 110  | Frequency of Charecters          | Python    | [Day110.py](Day110.py)  |
 | 111  | 4 Numbers with highest XOR       | Python    | [Day111.py](Day111.py)  |
+| 112  | Self Perimeter                   | Python    | [Day112.py](Day112.py)  |
