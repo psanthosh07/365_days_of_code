@@ -123,3 +123,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 111  | 4 Numbers with highest XOR       | Python    | [Day111.py](Day111.py)  |
 | 112  | Self Perimeter                   | Python    | [Day112.py](Day112.py)  |
 | 113  | Swap List Nodes in pairs         | Python    | [Day113.py](Day113.py)  |
+| 114  | LCM                              | Python    | [Day114.py](Day114.py)  |
