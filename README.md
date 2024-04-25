@@ -124,3 +124,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 112  | Self Perimeter                   | Python    | [Day112.py](Day112.py)  |
 | 113  | Swap List Nodes in pairs         | Python    | [Day113.py](Day113.py)  |
 | 114  | LCM                              | Python    | [Day114.py](Day114.py)  |
+| 115  | Min Max                          | Python    | [Day115.py](Day115.py)  |
