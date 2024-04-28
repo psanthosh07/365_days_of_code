@@ -127,3 +127,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 115  | Min Max                          | Python    | [Day115.py](Day115.py)  |
 | 116  | Stairs                           | Python    | [Day116.py](Day116.py)  |
 | 117  | Pair With Given Differences      | Python    | [Day117.py](Day117.py)  |
+| 118  | Implement Power Function         | Python    | [Day118.py](Day118.py)  |
