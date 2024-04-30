@@ -128,4 +128,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 116  | Stairs                           | Python    | [Day116.py](Day116.py)  |
 | 117  | Pair With Given Differences      | Python    | [Day117.py](Day117.py)  |
 | 118  | Implement Power Function         | Python    | [Day118.py](Day118.py)  |
-| 119  | Student Info                     | SQL        |[Day119.sql](Day119.sql)|
+| 119  | Student Info                     | SQL       |[Day119.sql](Day119.sql) |
+| 120  | Number of 1 bits                 | Python    |[Day120.py](Day120.py)   |
