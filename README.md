@@ -132,3 +132,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 120  | Number of 1 bits                 | Python    |[Day120.py](Day120.py)   |
 | 121  | Xor Between Two Arrays           | Python    |[Day121.py](Day121.py)   |
 | 122  | Longest Increasing Subsequence   | Python    |[Day122.py](Day122.py)   |
+| 123  | Disjoint Intervals               | Python    | [Day123.py](Day123.py)  |
