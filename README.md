@@ -134,3 +134,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 122  | Longest Increasing Subsequence   | Python    |[Day122.py](Day122.py)   |
 | 123  | Disjoint Intervals               | Python    | [Day123.py](Day123.py)  |
 | 124  | Reverse Linked List              | Python    | [Day124.py](Day124.py)  |
+| 125  | Is Rectangle?                    | Python    | [Day125.py](Day125.py)  |
