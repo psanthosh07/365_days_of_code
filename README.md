@@ -136,3 +136,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 124  | Reverse Linked List              | Python    | [Day124.py](Day124.py)  |
 | 125  | Is Rectangle?                    | Python    | [Day125.py](Day125.py)  |
 | 126  | Min Sum Path in Matrix           | Python    | [Day126.py](Day126.py)  |
+| 127  | Excel Column Number              | Python    | [Day127.py](Day127.py)  |
