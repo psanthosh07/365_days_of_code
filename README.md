@@ -139,3 +139,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 127  | Excel Column Number              | Python    | [Day127.py](Day127.py)  |
 | 128  | Best Time to Buy and Sell Stocks | Python    | [Day128.py](Day128.py)  |
 | 129  | Kingdom of Friendship            | Python    | [Day129.py](Day129.py)  |
+| 130  | Meeting Point                    | Python    | [Day130.py](Day130.py)  | 
+| 131  | Collatz Conjecture               | Python    | [Day131.py](Day131.py)  |
