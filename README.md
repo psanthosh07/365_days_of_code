@@ -141,3 +141,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 129  | Kingdom of Friendship            | Python    | [Day129.py](Day129.py)  |
 | 130  | Meeting Point                    | Python    | [Day130.py](Day130.py)  | 
 | 131  | Collatz Conjecture               | Python    | [Day131.py](Day131.py)  |
+| 132  | Chips Factory                    | Python    | [Day132.py](Day132.py)  |
