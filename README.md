@@ -143,3 +143,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 131  | Collatz Conjecture               | Python    | [Day131.py](Day131.py)  |
 | 132  | Chips Factory                    | Python    | [Day132.py](Day132.py)  |
 | 133  | Bit Flipping                     | Python    | [Day133.py](Day133.py)  |
+| 134  | Greater than All                 | Python    | [Day134.py](Day134.py)  |
