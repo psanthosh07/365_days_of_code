@@ -144,3 +144,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 132  | Chips Factory                    | Python    | [Day132.py](Day132.py)  |
 | 133  | Bit Flipping                     | Python    | [Day133.py](Day133.py)  |
 | 134  | Greater than All                 | Python    | [Day134.py](Day134.py)  |
+| 135  | Number of Sundays                | Python    | [Day135.py](Day135.py)  |
