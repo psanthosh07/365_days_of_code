@@ -149,3 +149,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 137  | Pangram Check                    | Python    | [Day137.py](Day137.py)  |
 | 138  | Maximum Substring                | Python    | [Day138.py](Day138.py)  |
 | 139  | Diagonal Flip                    | Python    | [Day139.py](Day139.py)  |
+| 140  | Valid Password                   | Python    | [Day140.py](Day140.py)  |
