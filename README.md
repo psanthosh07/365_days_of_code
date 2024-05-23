@@ -150,3 +150,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 138  | Maximum Substring                | Python    | [Day138.py](Day138.py)  |
 | 139  | Diagonal Flip                    | Python    | [Day139.py](Day139.py)  |
 | 140  | Valid Password                   | Python    | [Day140.py](Day140.py)  |
+| 141  | Palindromic Words                | Python    | [Day141.py](Day141.py)  |
+| 142  | Extracting Numbers               | Python    | [Day142.py](Day142.py)  |
+| 143  | Pick from Both sides !           | Python    | [Day143.py](Day143.py)  |
