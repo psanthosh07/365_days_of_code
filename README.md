@@ -153,3 +153,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 141  | Palindromic Words                | Python    | [Day141.py](Day141.py)  |
 | 142  | Extracting Numbers               | Python    | [Day142.py](Day142.py)  |
 | 143  | Pick from Both sides !           | Python    | [Day143.py](Day143.py)  |
+| 144  | Reverse String (Stack)           | Python    | [Day144.py](Day144.py)  |
