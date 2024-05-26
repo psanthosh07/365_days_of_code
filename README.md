@@ -155,3 +155,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 143  | Pick from Both sides !           | Python    | [Day143.py](Day143.py)  |
 | 144  | Reverse String (Stack)           | Python    | [Day144.py](Day144.py)  |
 | 145  | Palindrome Integer               | Python    | [Day145.py](Day145.py)  |
+| 146  | Verify Prime                     | Python    | [Day146.py](Day146.py)  |
