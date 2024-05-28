@@ -157,3 +157,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 145  | Palindrome Integer               | Python    | [Day145.py](Day145.py)  |
 | 146  | Verify Prime                     | Python    | [Day146.py](Day146.py)  |
 | 147  | Reverse Integer                  | Python    | [Day147.py](Day147.py)  |
+| 148  | Prime Numbers                    | Python    | [Day148.py](Day148.py)  |
