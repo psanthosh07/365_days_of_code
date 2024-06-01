@@ -161,5 +161,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 149  | Reverse Link List Recursion      | Python    | [Day149.py](Day149.py)  |
 | 150  | Binary Representation            | Python    | [Day150.py](Day150.py)  |
 | 151  | Palindrome Strings               | Python    | [Day151.py](Day151.py)  |
+| 152  | All Factors                      | Python    | [Day152.py](Day152.py)  |
 
     
