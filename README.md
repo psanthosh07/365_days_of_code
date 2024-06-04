@@ -164,3 +164,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 152  | All Factors                      | Python    | [Day152.py](Day152.py)  |
 | 153  | Count Element Occurances         | Python    | [Day153.py](Day153.py)  |
 | 154  | Bulbs                            | Python    | [Day154.py](Day154.py)  |
+| 155  | PRETTYPRINT                      | Python    | [Day155.py](Day155.py)  |
