@@ -166,3 +166,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 154  | Bulbs                            | Python    | [Day154.py](Day154.py)  |
 | 155  | PRETTYPRINT                      | Python    | [Day155.py](Day155.py)  |
 | 156  | Prime Sum                        | Python    | [Day156.py](Day156.py)  |
+| 157  | NEXT GREATER                     | Python    | [Day157.py](Day157.py)  |
+| 158  | Modular Expression               | Python    | [Day158.py](Day158.py)  |
