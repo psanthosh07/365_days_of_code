@@ -168,3 +168,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 156  | Prime Sum                        | Python    | [Day156.py](Day156.py)  |
 | 157  | NEXT GREATER                     | Python    | [Day157.py](Day157.py)  |
 | 158  | Modular Expression               | Python    | [Day158.py](Day158.py)  |
+| 159  | Array Bug                        | Python    | [Day159.py](Day159.py)  |
