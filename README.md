@@ -171,3 +171,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 159  | Array Bug                        | Python    | [Day159.py](Day159.py)  |
 | 160  | Tenth Line                       | Bash      | [Day160.sh](Day160.sh)  |
 | 161  | Grep Log                         | Bash      | [Day161.sh](Day161.sh)  |
+| 162  | Remove Punctuations              | Bash      | [Day162.sh](Day162.sh)  |
+
