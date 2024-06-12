@@ -172,4 +172,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 160  | Tenth Line                       | Bash      | [Day160.sh](Day160.sh)  |
 | 161  | Grep Log                         | Bash      | [Day161.sh](Day161.sh)  |
 | 162  | Remove Punctuations              | Bash      | [Day162.sh](Day162.sh)  |
-
+| 163  | Neutral Reviewers                | SQL       | [Day163.sql](Day163.sql)|
