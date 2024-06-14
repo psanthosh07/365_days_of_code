@@ -174,3 +174,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 162  | Remove Punctuations              | Bash      | [Day162.sh](Day162.sh)  |
 | 163  | Neutral Reviewers                | SQL       | [Day163.sql](Day163.sql)|
 | 164  | Grep                             | Bash      | [Day164.sh](Day164.sh)  |
+| 165  | Amazing Subarray                 | Python    | [Day165.py](Day165.py)  |
