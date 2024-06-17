@@ -177,3 +177,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 165  | Amazing Subarray                 | Python    | [Day165.py](Day165.py)  |
 | 166  | Find Variance                    | Python    | [Day166.py](Day166.py)  |
 | 167  | Trailing Zeroes                  | Python    | [Day167.py](Day167.py)  |
+| 168  | Transform CSV                    | Bash      | [Day168.sh](Day168.sh)  |
+
+
