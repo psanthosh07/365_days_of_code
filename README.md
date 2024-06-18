@@ -178,5 +178,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 166  | Find Variance                    | Python    | [Day166.py](Day166.py)  |
 | 167  | Trailing Zeroes                  | Python    | [Day167.py](Day167.py)  |
 | 168  | Transform CSV                    | Bash      | [Day168.sh](Day168.sh)  |
+| 169  | Probability Distribution         | Python    | [Day169.py](Day169.py)  |
 
 
