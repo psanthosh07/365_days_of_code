@@ -179,5 +179,8 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 167  | Trailing Zeroes                  | Python    | [Day167.py](Day167.py)  |
 | 168  | Transform CSV                    | Bash      | [Day168.sh](Day168.sh)  |
 | 169  | Probability Distribution         | Python    | [Day169.py](Day169.py)  |
+| 170  | Classes and Object in C#v        |   C#      | [Day170.cs](Day170.cs)  |
+| 171  | Abstraction in C#                | C#        | [Day171.cs](Day171.cs)  |
+
 
 
