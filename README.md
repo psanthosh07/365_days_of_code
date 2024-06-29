@@ -180,7 +180,13 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 168  | Transform CSV                    | Bash      | [Day168.sh](Day168.sh)  |
 | 169  | Probability Distribution         | Python    | [Day169.py](Day169.py)  |
 | 170  | Classes and Object in C#v        |   C#      | [Day170.cs](Day170.cs)  |
-| 171  | Abstraction in C#                | C#        | [Day171.cs](Day171.cs)  |
-
+| 171  | Abstraction in C#                |   C#      | [Day171.cs](Day171.cs)  |
+| 172  | Switch Statement                 |Javascript | [Day172.js](Day172.js)  |
+| 173  | Conditional Statement            | Javascript| [Day173.js](Day173.js)  |
+| 174  | Jump Statement                   | Javascript| [Day174.js](Day174.js)  |
+| 175  | Loops                            | Javascript| [Day175.js](Day175.js)  |
+| 176  |Arithmetic Operations on Numbers  | Javascript| [Day176.js](Day176.js)  |
+| 177  |Bits and operations on it         | Javascript| [Day177.js](Day177.js)  |
+| 178  |Math methods in JS                | Javascript| [Day178.js](Day178.js)  |
 
 
