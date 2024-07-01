@@ -189,5 +189,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 177  |Bits and operations on it         | Javascript| [Day177.js](Day177.js)  |
 | 178  |Math methods in JS                | Javascript| [Day178.js](Day178.js)  |
 | 179  |Javascript Strings                | Javascript| [Day179.js](Day179.js)  |
+| 180  | String Methods                   | Javascript| [Day180.js](Day180.js)  |
 
 
