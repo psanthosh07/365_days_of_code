@@ -192,5 +192,8 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 180  | String Methods                   | Javascript| [Day180.js](Day180.js)  |
 | 181  | Vowel and Consonant Substrings!  | Python    | [Day181.py](Day181.py)  |
 | 182  | Common Elements                  | Python    | [Day182.py](Day182.py)  |
+| 183  | Colorful Number                  | Python    | [Day183.py](Day183.py)  |
+| 184  | Find Rectangle in binary matrix  | Python    | [Day184.py](Day184.py)  |
+| 185  | Merge Strings Alternately        | Python    | [Day185.py](Day185.py)  |
 
 
