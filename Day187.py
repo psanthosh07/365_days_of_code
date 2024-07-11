@@ -3,6 +3,7 @@ class Solution:
         a=[]
         for i in range (0,len(nums)-1):
             for j in range(1,len(nums)):
+                if i!=j:
                     if nums[i]+nums[j]==target:
                         a.append(i)
                         a.append(j)
