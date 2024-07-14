@@ -198,6 +198,7 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 186  |Greatest Common Divisor of Strings| Python    | [Day186.py](Day186.py)  |
 | 187  |Two Sum                           | Python    | [Day187.py](Day187.py)  |
 | 188  | Palindrome Number                | Python    | [Day188.py](Day188.py)  |
+| 189  | Remove Element                   | Python    | [Day189.py](Day189.py)  |
 
 
 
