@@ -203,4 +203,8 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 191  | roman-to-integer                 | Python    | [Day191.py](Day191.py)  |
 | 192  | Valid Palindrome                 | Python    | [Day192.py](Day192.py)  |
 | 193  | Length of the last word          | Python    | [Day193.py](Day193.py)  |
-| 194  | Length of the last word          | Python    | [Day194.py](Day194.py)  |
+| 194  | Add Two Numbers                  | Python    | [Day194.py](Day194.py)  |
+| 195  | Valid Parentheses                | Python    | [Day195.py](Day195.py)  |
+
+
+Valid Parentheses
