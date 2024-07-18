@@ -205,3 +205,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 193  | Length of the last word          | Python    | [Day193.py](Day193.py)  |
 | 194  | Add Two Numbers                  | Python    | [Day194.py](Day194.py)  |
 | 195  | Valid Parentheses                | Python    | [Day195.py](Day195.py)  |
+| 196  | Majority-element                 | Python    | [Day196.py](Day196.py)  |
