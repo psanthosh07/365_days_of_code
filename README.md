@@ -206,3 +206,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 194  | Add Two Numbers                  | Python    | [Day194.py](Day194.py)  |
 | 195  | Valid Parentheses                | Python    | [Day195.py](Day195.py)  |
 | 196  | Majority-element                 | Python    | [Day196.py](Day196.py)  |
+| 197  | single-number                    | Python    | [Day197.py](Day197.py)  |
