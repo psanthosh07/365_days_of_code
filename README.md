@@ -209,3 +209,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 197  | single-number                    | Python    | [Day197.py](Day197.py)  |
 | 198  | Binary - Add                     | Python    | [Day198.py](Day198.py)  |
 | 199 |
+| 200
