@@ -209,5 +209,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 197  | single-number                    | Python    | [Day197.py](Day197.py)  |
 | 198  | Binary - Add                     | Python    | [Day198.py](Day198.py)  |
 | 199 | Remove Duplicates from Sorted Array| Python   | [Day199.py](Day199.py)  |
-| 200
-|201
+| 200| Best Time to Buy and Sell Stock II| Python     |[Day200.py](Day200.py)  |
+|201 | Rotate Array                     | Python      | Day201.py](Day201.py)  |
