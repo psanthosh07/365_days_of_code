@@ -208,6 +208,6 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 196  | Majority-element                 | Python    | [Day196.py](Day196.py)  |
 | 197  | single-number                    | Python    | [Day197.py](Day197.py)  |
 | 198  | Binary - Add                     | Python    | [Day198.py](Day198.py)  |
-| 199 |
+| 199 | Remove Duplicates from Sorted Array| Python   | [Day199.py](Day199.py)  |
 | 200
 |201
