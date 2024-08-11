@@ -212,5 +212,5 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 200| Best Time to Buy and Sell Stock II | Python     |[Day200.py](Day200.py)  |
 |201 | Rotate Array                      | Python      | [Day201.py](Day201.py)  |
 |202 | Contains Duplicate                | Python      | [Day202.py](Day202.py)  |
-203
-204
+|203| Valid Anagarm                      | Python      | [Day203.py](Day203.py)  |
+|204| second largest in the array        | Python      | [Day204.py](Day204.py)  |
