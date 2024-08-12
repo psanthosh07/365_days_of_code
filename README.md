@@ -210,7 +210,11 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 | 198  | Binary - Add                     | Python    | [Day198.py](Day198.py)  |
 | 199 | Remove Duplicates from Sorted Array| Python   | [Day199.py](Day199.py)  |
 | 200| Best Time to Buy and Sell Stock II | Python     |[Day200.py](Day200.py)  |
-|201 | Rotate Array                      | Python      | [Day201.py](Day201.py)  |
-|202 | Contains Duplicate                | Python      | [Day202.py](Day202.py)  |
-|203| Valid Anagarm                      | Python      | [Day203.py](Day203.py)  |
-|204| second largest in the array        | Python      | [Day204.py](Day204.py)  |
+|201 | Rotate Array                       | Python      | [Day201.py](Day201.py)  |
+|202 | Contains Duplicate                 | Python      | [Day202.py](Day202.py)  |
+|203| Valid Anagarm                       | Python      | [Day203.py](Day203.py)  |
+|204| second largest in the array         | Python      | [Day204.py](Day204.py)  |
+|205| Shift One place to the right        | Python     | [Day205.py](Day205.py)   |
+|206| Move Zero's to End                  | Python     | [Day206.py](Day206.py)   |
+|207| Linear Search                       | Python     | [Day207.py](Day207.py)   |
+
