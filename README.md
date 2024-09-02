@@ -220,4 +220,4 @@ This repository is a dedicated space where I'll be sharing my daily code submiss
 |208| Invalid Tweets                      | MySql       | [Day208.sql](Day208.sql)|
 |209 | Left rotate an array by D places   | Python      |[Day209.py](Day209.py)   |
 |210|
-| 211|                                   |
+| 211|                                   |             |                           |
